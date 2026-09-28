@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7da1946f24a51e15c11a38d5",
+  "owner": "xrfqywhwctd",
+  "repo": "page-dd3e590b2d133a614ec8c55d",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dd3e590b2d133a614ec8c55d",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "14c842ebd46071b9e026e3031aef024dc373178bb1b1b3ccf259a76a5d8d2f63",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供稳定高效的网络加速服务，支持多种客户端下载和流媒体解锁。",
+          "AI_DESCRIPTION": "大哥云提供稳定高效的网络加速服务，支持多种客户端下载和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n    :root {\n      --blue: #0A2540;\n      --cyan: #00BFA5;\n      --gray: #666;\n    }\n    * {\n      box-sizing: border-box;\n      margin: 0;\n      padding: 0;\n    }\n    body {\n      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n      line-height: 1.6;\n      color: #333;\n      background: #f8f9fa;\n    }\n    header {\n      background: var(--blue);\n      color: white;\n      padding: 1rem 0;\n      position: sticky;\n      top: 0;\n      z-index: 10;\n    }\n    nav {\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 0 1rem;\n      display: flex;\n      justify-content: space-between;\n      align-items: center;\n    }\n    .logo {\n      font-size: 1.5rem;\n      font-weight: bold;\n    }\n    .nav-links {\n      display: flex;\n      gap: 2rem;\n    }\n    .nav-links a {\n      color: white;\n      text-decoration: none;\n      font-size: 1rem;\n    }\n    main {\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 2rem 1rem;\n    }\n    h1 {\n      font-size: 2.5rem;\n      margin-bottom: 1rem;\n      color: var(--blue);\n    }\n    .hero {\n      text-align: center;\n      margin-bottom: 3rem;\n      background: linear-gradient(135deg, var(--blue), #1E3A5F);\n      color: white;\n      padding: 3rem 1rem;\n      border-radius: 12px;\n    }\n    .hero p {\n      font-size: 1.2rem;\n      margin-bottom: 2rem;\n    }\n    .cta {\n      background: var(--cyan);\n      color: var(--blue);\n      padding: 0.75rem 1.5rem;\n      border-radius: 30px;\n      text-decoration: none;\n      font-weight: bold;\n      display: inline-block;\n    }\n    .section {\n      margin-bottom: 3rem;\n    }\n    h2 {\n      font-size: 1.8rem;\n      margin-bottom: 1.5rem;\n      color: var(--blue);\n      position: relative;\n    }\n    h2:after {\n      content: '';\n      position: absolute;\n      bottom: -5px;\n      left: 0;\n      width: 60px;\n      height: 3px;\n      background: var(--cyan);\n    }\n    .compact-cards {\n      display: grid;\n      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n      gap: 1.5rem;\n    }\n    .card {\n      background: white;\n      border: 1px solid #e5e7eb;\n      border-radius: 12px;\n      padding: 1.5rem;\n      box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n      transition: transform 0.3s;\n    }\n    .card:hover {\n      transform: translateY(-5px);\n    }\n    .card h3 {\n      color: var(--blue);\n      margin-bottom: 1rem;\n    }\n    .features {\n      list-style: none;\n    }\n    .features li {\n      padding: 0.5rem 0;\n      border-bottom: 1px dashed #eee;\n    }\n    .features li:last-child {\n      border-bottom: none;\n    }\n    .faq {\n      display: flex;\n      flex-direction: column;\n      gap: 1rem;\n    }\n    details {\n      background: white;\n      border: 1px solid #e5e7eb;\n      border-radius: 8px;\n      padding: 1rem;\n    }\n    summary {\n      font-weight: bold;\n      cursor: pointer;\n      color: var(--blue);\n    }\n    details[open] summary {\n      color: var(--cyan);\n    }\n    .answer {\n      margin-top: 1rem;\n      color: #555;\n    }\n    footer {\n      background: var(--blue);\n      color: white;\n      text-align: center;\n      padding: 2rem;\n    }\n    .footer-links {\n      margin-top: 1rem;\n    }\n    .footer-links a {\n      color: white;\n      margin: 0 1rem;\n      text-decoration: none;\n    }\n    @media (max-width: 768px) {\n      h1 {\n        font-size: 2rem;\n      }\n      .nav-links {\n        gap: 1rem;\n        font-size: 0.9rem;\n      }\n    }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">大哥云</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#scenarios\">场景</a>\n                <a href=\"#howto\">使用</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <div class=\"hero\">\n            <h1>大哥云</h1>\n            <p>高效稳定 VPN 网络加速器</p>\n            <a href=\"#plans\" class=\"cta\">立即选择套餐</a>\n        </div>\n        <section id=\"plans\" class=\"section\">\n            <h2>套餐选择</h2>\n            <div class=\"compact-cards\">\n                {{PLANS_HTML}}\n            </div>\n        </section>\n        <section id=\"clients\" class=\"section\">\n            <h2>客户端选择</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"scenarios\" class=\"section\">\n            <h2>使用场景</h2>\n            <p>适用于多种网络场景，包括家庭娱乐、企业办公和游戏加速。</p>\n            <div class=\"compact-cards\">\n                <div class=\"card\">\n                    <h3>流媒体解锁</h3>\n                    <p>享受高清流媒体内容。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>多设备在线</h3>\n                    <p>支持多台设备同时使用。</p>\n                </div>\n                <div class=\"card\">\n                    <h3>游戏加速</h3>\n                    <p>提升游戏体验。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"howto\" class=\"section\">\n            <h2>操作说明</h2>\n            <p>大哥云提供简单易用的操作指南。</p>\n            <ol>\n                <li>选择适合的套餐</li>\n                <li>下载并安装客户端</li>\n                <li>登录账号</li>\n                <li>连接加速节点</li>\n            </ol>\n        </section>\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何选择适合我的套餐？</summary>\n                <div class=\"answer\">\n                    <p>根据您的流量需求和在线设备数量选择基础版、旗舰版或团队版。</p>\n                </div>\n            </details>\n            <details>\n                <summary>大哥云支持哪些设备？</summary>\n                <div class=\"answer\">\n                    <p>支持 Windows、macOS、Android、iOS 等主流平台。</p>\n                </div>\n            </details>\n            <details>\n                <summary>流量是按月计算还是按年？</summary>\n                <div class=\"answer\">\n                    <p>每月套餐按月计算，年付有优惠。</p>\n                </div>\n            </details>\n            <details>\n                <summary>大哥云如何提供加速服务？</summary>\n                <div class=\"answer\">\n                    <p>通过优化网络节点提供极速流量和低延迟连接。</p>\n                </div>\n            </details>\n            <details>\n                <summary>大哥云的售后服务包括什么？</summary>\n                <div class=\"answer\">\n                    <p>提供专业的技术支持和客户服务。</p>\n                </div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <div class=\"logo\">大哥云</div>\n        <div class=\"footer-links\">\n            <a href=\"#plans\">套餐</a>\n            <a href=\"#faq\">FAQ</a>\n            <a href=\"#howto\">使用指南</a>\n        </div>\n        <p>© 2024 大哥云 网络加速. 保留所有权利。</p>\n    </footer>\n\n",
+          "hash": "df33cfb38408369ae2568a9ddabcffac2ed1d95cb295cd47a326d1030e98b83f",
+          "seo": {
+            "title": "大哥云 | 网络加速器 VPN 客户端下载 官网",
+            "keywords": "大哥云, VPN, 网络加速器, 客户端下载, 官网",
+            "description": "大哥云提供稳定高效的网络加速服务，支持多种客户端下载和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junfawangluo.cn",
+    "host": "m.junfawangluo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "junfawangluo.cn",
+      "url": "https://junfawangluo.cn/",
+      "label": "Miru",
+      "apex": "junfawangluo.cn",
+      "kind": null,
+      "identity": "cracnqq/page-f4543c0ff492d0b8cd68957e"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a401b3f66cf4b6504d41cf2486a0c0ba7e5c088547c33be9c1ea0b68e021f691",
+    "sitemap.xml": "63d74633259d3281cf83ad03ce94e4bf321b53851824dec1b0364b6c5096c22e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b54116e8da61de827f9e7fa30ce73517dab07c868482b49767b75fc299a46035",
+    "robots.txt": "c21a90fff695946b92d3c547369428269df902c1c62be724a63213960c3fd979",
+    "9c84b529d90acebc7b2d9077fbbb1a27.txt": "fab75b5917db42190e263c169855d6382f45bf22847838a7d88a7a3b8ec44765"
+  },
+  "revision": "5dac4dd12c2684b98be001ef71d2809feaba78673079eda29ab7a63ec881df93"
+}
